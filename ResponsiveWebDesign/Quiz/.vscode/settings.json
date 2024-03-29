@@ -1,0 +1,7 @@
+{
+    "editor.fontLigatures": false,
+    "editor.stickyScroll.scrollWithEditor": true,
+    "editor.stickyScroll.defaultModel": "outlineModel",
+    "editor.stickyTabStops": false,
+    "editor.stickyScroll.maxLineCount": 1
+}
